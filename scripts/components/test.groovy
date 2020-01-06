@@ -1,0 +1,1 @@
+templateModel.controllerValue = "WORKING"

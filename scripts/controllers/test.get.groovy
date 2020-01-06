@@ -1,0 +1,1 @@
+return "/templates/plugins/org/craftercms/test/test-controller.ftl"
