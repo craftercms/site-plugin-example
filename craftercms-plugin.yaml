@@ -5,7 +5,7 @@ descriptorVersion: 2
 
 # Describe the plugin
 plugin:
-  type: engine
+  type: site
   id: org.craftercms.plugin.test
   name: Test Engine Plugin
   tags:
@@ -31,9 +31,9 @@ plugin:
     name: MIT
     url: https://opensource.org/licenses/MIT
   crafterCmsVersions:
-    - major: 3
-      minor: 1
-      patch: 5
+    - major: 4
+      minor: 0
+      patch: 0
   crafterCmsEditions:
     - community
     - enterprise
