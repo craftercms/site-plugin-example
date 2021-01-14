@@ -12,7 +12,7 @@ plugin:
     - engine
     - test
   version:
-    major: 1
+    major: 2
     minor: 0
     patch: 0
   description: A simple test for engine plugins
