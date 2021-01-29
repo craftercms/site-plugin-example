@@ -2,14 +2,14 @@
 	<title>Test</title>
 	<description></description>
 	<objectType>component</objectType>
-	<content-type>/component/plugins/org/craftercms/test/test</content-type>
+	<content-type>/component/plugins/org/craftercms/plugin/test/test</content-type>
 	<imageThumbnail>undefined</imageThumbnail>
 	<quickCreate>false</quickCreate>
 	<quickCreatePath></quickCreatePath>
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
-			<value>/templates/plugins/org/craftercms/test/test-component.ftl</value>
+			<value>/templates/plugins/org/craftercms/plugin/test/test-component.ftl</value>
 			<type>template</type>
 		</property>
 		<property>

@@ -1,1 +1,1 @@
-return "/templates/plugins/org/craftercms/test/test-controller.ftl"
+return "/templates/plugins/org/craftercms/plugin/test/test-controller.ftl"

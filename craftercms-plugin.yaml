@@ -7,18 +7,17 @@ descriptorVersion: 2
 plugin:
   type: site
   id: org.craftercms.plugin.test
-  name: Test Engine Plugin
+  name: Site Plugin Example
   tags:
-    - engine
     - test
   version:
     major: 3
     minor: 0
     patch: 0
-  description: A simple test for engine plugins
+  description: A simple example for site plugins
   website:
-    name: Test Engine Plugin
-    url: https://github.com/jdrossl/engine-plugin
+    name: Site Plugin Example
+    url: https://github.com/jdrossl/site-plugins-example
   developer:
     company:
       name: Crafter Software

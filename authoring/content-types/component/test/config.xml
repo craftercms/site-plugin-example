@@ -1,6 +1,6 @@
 <content-type name="/component/test" is-wcm-type="true">
 	<label>Test</label>
-	<form>/component/plugins/org/craftercms/test/test</form>
+	<form>/component/plugins/org/craftercms/plugin/test/test</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
 	<file-extension>xml</file-extension>
