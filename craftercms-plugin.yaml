@@ -18,6 +18,11 @@ plugin:
   website:
     name: Site Plugin Example
     url: https://github.com/jdrossl/site-plugins-example
+  media:
+    screenshots:
+      - title: Crafter CMS
+        description: Crafter CMS Example Plugin
+        url: "https://raw.githubusercontent.com/craftercms/site-plugin-example/master/.crafter/logo.svg"
   developer:
     company:
       name: Crafter Software
