@@ -1,4 +1,4 @@
-package org.crafter.studio.plugin.test
+package org.craftercms.plugin.test
 
 class Greeter {
 

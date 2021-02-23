@@ -13,11 +13,11 @@ plugin:
   version:
     major: 3
     minor: 0
-    patch: 0
+    patch: 1
   description: A simple example for site plugins
   website:
     name: Site Plugin Example
-    url: https://github.com/jdrossl/site-plugins-example
+    url: https://github.com/craftercms/site-plugins-example
   media:
     screenshots:
       - title: Crafter CMS
