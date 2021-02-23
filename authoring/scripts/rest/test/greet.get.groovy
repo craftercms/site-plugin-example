@@ -1,3 +1,3 @@
-import org.crafter.studio.plugin.test.Greeter
+import org.craftercms.plugin.test.Greeter
 
 return new Greeter().greet()
