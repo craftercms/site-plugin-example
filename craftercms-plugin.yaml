@@ -13,7 +13,7 @@ plugin:
   version:
     major: 3
     minor: 0
-    patch: 1
+    patch: 2
   description: A simple example for site plugins
   website:
     name: Site Plugin Example
@@ -22,7 +22,7 @@ plugin:
     screenshots:
       - title: Crafter CMS
         description: Crafter CMS Example Plugin
-        url: "https://raw.githubusercontent.com/craftercms/site-plugin-example/master/.crafter/logo.svg"
+        url: "https://raw.githubusercontent.com/craftercms/site-plugin-example/master/.crafter/screenshot.png"
   developer:
     company:
       name: Crafter Software
